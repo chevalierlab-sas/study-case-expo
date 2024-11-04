@@ -16,10 +16,10 @@ Tugas kalian
 ---
 
 1. Membuat UI sebagai berikut:
-  - Grid untuk menampilkan image card
-  - Dialog untuk melihat Char
-  - Dialog untuk mengupdate Char
-  - Dialog untuk menambah data Char
+    - Grid untuk menampilkan image card
+    - Dialog untuk melihat Char
+    - Dialog untuk mengupdate Char
+    - Dialog untuk menambah data Char
 
 2. Fetch data dari api, lalu ditampilkan menggunakan card
 3. Post data ke api, berupa nama, deskripsi, userId, dan image.

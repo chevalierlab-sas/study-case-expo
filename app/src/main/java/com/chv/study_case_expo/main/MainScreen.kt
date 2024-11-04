@@ -12,6 +12,8 @@ fun TouhouScreen() {
 
     val viewModel: MainViewModel = viewModel()
 
+    // TODO: fetch data from viewmodel and show in the ui
+
     Scaffold(
         topBar = {
             Text("Tohou List")

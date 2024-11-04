@@ -6,4 +6,6 @@ import androidx.compose.ui.Modifier
 @Composable
 fun CharDialog(modifier: Modifier = Modifier) {
 
+    // TODO: show individual character
+
 }

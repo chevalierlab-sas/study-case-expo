@@ -6,4 +6,6 @@ import androidx.compose.ui.Modifier
 @Composable
 fun ProfileDialog(modifier: Modifier = Modifier) {
 
+    // TODO: show user information
+
 }

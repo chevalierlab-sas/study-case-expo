@@ -6,4 +6,6 @@ import androidx.compose.ui.Modifier
 @Composable
 fun UpdateCharacterDialog(modifier: Modifier = Modifier) {
 
+    // TODO: update character
+
 }

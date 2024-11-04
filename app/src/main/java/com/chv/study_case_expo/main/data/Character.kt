@@ -2,6 +2,9 @@ package com.chv.study_case_expo.main.data
 
 import com.squareup.moshi.Json
 
+/**
+ * class for Character
+ */
 data class Character(
     @Json(name="id")
     val id: Int,

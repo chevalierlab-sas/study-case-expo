@@ -8,11 +8,11 @@ Langkah pengerjaan
 
 1. Fork repository github ini
 2. Clone repository hasil fork kalian
-3. Kerjakan tugas anda
-4. Push ke repository anda
+3. Kerjakan tugas kalian
+4. Push ke repository kalian
 5. Kumpulkan link repository kalian ke form pengumpulan, juga di Issue repo github ini.
 
-Tugas anda
+Tugas kalian
 ---
 
 1. Membuat UI sebagai berikut:
